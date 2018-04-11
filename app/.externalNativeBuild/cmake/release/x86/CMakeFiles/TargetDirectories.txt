@@ -1,0 +1,3 @@
+E:/Analysis/OtherReports/Alpbach/Frida/EmulatorDetection/EmulatorDetectionKotlin/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/native-lib.dir
+E:/Analysis/OtherReports/Alpbach/Frida/EmulatorDetection/EmulatorDetectionKotlin/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+E:/Analysis/OtherReports/Alpbach/Frida/EmulatorDetection/EmulatorDetectionKotlin/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
